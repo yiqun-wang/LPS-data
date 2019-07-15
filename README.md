@@ -1,6 +1,6 @@
 # Incompatible Shape Structure Datasets
 
-The incompatible shape structure datasets in the paper "A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes with Incompatible Shape Structures" by Yiqun Wang,  Jianwei Guo, Dong-Ming Yan, Kai Wang, Xiaopeng Zhang.
+The incompatible shape structure datasets in the paper ["A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes with Incompatible Shape Structures"](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_A_Robust_Local_Spectral_Descriptor_for_Matching_Non-Rigid_Shapes_With_CVPR_2019_paper.html) by Yiqun Wang,  Jianwei Guo, Dong-Ming Yan, Kai Wang, Xiaopeng Zhang.
 
 Original Dataset can be found at: http://faust.is.tue.mpg.de/  (FAUST dataset) and we remeshed each shape independently using paper ["Isotropic Surface Remeshing without Large and Small Angles"](https://ieeexplore.ieee.org/document/8361045) to generate multi-resolution models. For 5K resolution, we use the model in https://github.com/llorz/SGA18_orientation_BCICP_dataset.
 
